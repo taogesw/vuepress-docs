@@ -14,9 +14,11 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "taogesw/vuepress-docs",
 
-  docsDir: "demo/theme-docs/src",
+  docsBranch: "/master",
+
+  docsDir: "/src/",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
