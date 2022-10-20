@@ -3,7 +3,7 @@ import theme from "./theme.js";
 import { searchPlugin } from "@vuepress/plugin-search";
 
 export default defineUserConfig({
-  // base: "/",
+  base: "/docs/",
   port: 8083,
   locales: {
     "/": {
