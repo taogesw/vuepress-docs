@@ -100,7 +100,7 @@ features:
     link: https://vuepress-theme-hope.github.io/v2/guide/feature/
 
 copyright: false
-footer: MIT Licensed | Copyright © 2019-present Mr.Hope
+footer: MIT Licensed | Copyright © 2023-present Mr.Hope
 ---
 
 This is an example of a project homepage. You can place your main content here.
